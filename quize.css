@@ -1,0 +1,41 @@
+body{
+	background-color: purple;
+}
+
+p{
+	font-size: 200%;
+	color: black;
+	margin: 0px;
+}
+
+img{
+	padding: 25px;
+	border: 25px solid red;
+	margin: 50px;
+	width: 20%;
+}
+
+#imagetoggler{
+	display: none;
+}
+
+#QA{
+	display: none;
+}
+
+#QI{
+	display: none;
+}
+
+#Q2{
+	display: none;
+}
+
+#IQ{
+	display: none;
+}
+
+#AQ{
+	display: none;
+}
+
