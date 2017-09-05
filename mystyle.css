@@ -1,0 +1,16 @@
+body{
+	background-color: lightblue;
+}
+
+p{
+	font-size: 200%;
+	color: purple;
+	margin: 0px;
+}
+
+img{
+	padding: 25px;
+	border: 25px solid red;
+	margin: 50px;
+	width: 20%;
+}
