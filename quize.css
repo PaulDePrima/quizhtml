@@ -15,7 +15,7 @@ img{
 	width: 20%;
 }
 
-#imagetoggler{
+#Q1{
 	display: none;
 }
 
@@ -80,5 +80,9 @@ img{
 #IQ3{
 	
 	display: none;
+}
+
+#pic{
+		position: relative;
 }
 
